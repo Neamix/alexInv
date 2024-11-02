@@ -136,10 +136,7 @@
 						<div class="bottom-footer">
 							<div class="row">
 								<div class="col-lg-4 order-lg-1 mb-20">
-									<ul class="d-flex justify-content-center justify-content-lg-start footer-nav">
-										<li><a href="#">Privacy & Terms.</a></li>
-										<li><a href="#">Contact Us</a></li>
-									</ul>
+									
 								</div>
 								<div class="col-lg-4 order-lg-2 mb-20">
 									<p class="copyright text-center">Copyright @2022 Alexandria Investments inc.</p>
