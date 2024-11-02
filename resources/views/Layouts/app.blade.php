@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="keywords" content="Alexinvesments,Alexandria Invesments,Software,Software developing">
-		<meta name="description" content="Alexandria Inv is a creative saas and software html template designed for saas and software Agency websites.">
+		<meta name="description" content="Alexandria Investments | Shaping Apps Together">
       	<meta property="og:site_name" content="Alexandria Invesment">
       	<meta property="og:url" content="https://heloshape.com/">
       	<meta property="og:type" content="website">
