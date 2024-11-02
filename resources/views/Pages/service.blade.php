@@ -13,7 +13,7 @@
 							<h2 class="font-rubik">Our Services</h2>
 						</div>
 						<div class="col-xl-9 m-auto">
-							<p class="font-rubik">We are a creative company that focuses on establishing long-term relationships with customers.</p>
+							<p class="font-rubik">We provide solutions, from custom web applications to ongoing support, to help bring your vision to life</p>
 						</div>
 					</div>
 				</div>

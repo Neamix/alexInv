@@ -15,7 +15,7 @@
 						<div class="row">
 							<div class="col-xl-9 col-lg-11 col-md-10 m-auto">
 								<h6>Contact us</h6>
-								<h2>Feel free to contact us or just say hi!</h2>
+								<h2>Get in Touch and Let's Start Building Together!</h2>
 							</div>
 						</div>
 					</div>
