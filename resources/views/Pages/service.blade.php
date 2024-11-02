@@ -50,8 +50,8 @@
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
 							<div class="block-style-twentyTwo" onclick="location.href='service-detailsV1.html';">
 								<div class="icon d-flex align-items-center justify-content-center" style="background:#FFF8E0;"><img src="{{ asset('asset/images/icon/183.svg') }}" alt=""></div>
-								<h4>Figma Design</h4>
-								<p>Creating beautiful UI/UX designs for your business</p>
+								<h4>Software Integrations</h4>
+								<p>Connect your existing systems for improved efficiency and streamlined operations</p>
 							</div> <!-- /.block-style-twentyTwo -->
 						</div>
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200">
@@ -106,7 +106,7 @@
 									<blockquote class="font-rubik">
 										Our talented team is here to help your business thrive with innovative applications and seamless integrations
 									</blockquote>
-									<h6 class="mt-20">Abdalrhman<span>CEO & Founder deksi</span></h6>
+									<h6 class="mt-20">Abdalrhman Hussin<span>CEO & Founder Alexandria Investments</span></h6>
 								</div> <!-- /.quote-wrapper -->
 							</div>
 						</div>

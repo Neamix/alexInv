@@ -243,9 +243,13 @@
                             <div class="pack-name" style="background:#FBF3E5;">Business Project</div>
                             <div class="pack-details">Get more with team</div>
                             <ul class="pr-feature">
-                                <li>Quick updates</li>
-                                <li>Minor enhancements</li>
+                                <li>Website</li>
+                                <li>Responseive</li>
                                 <li>Admin Panal</li>
+                                <li>Mobile Application</li>
+                                <li>Add Load Balancer</li>
+                                <li>Deploy on AWS</li>
+                                <li>1 Year support</li>
                             </ul>
                             <a href="/callus" class="trial-button">Call Us</a>
                         </div> <!-- /.pr-table-wrapper -->

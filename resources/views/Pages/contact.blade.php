@@ -39,21 +39,21 @@
                                 <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                                     <div class="input-group-meta form-group mb-60">
                                         <label>First Name</label>
-                                        <input type="text" placeholder="Michel" name="Fname" required="required" data-error="Name is required.">
+                                        <input type="text" placeholder="Your first name" name="Fname" required="required" data-error="Name is required.">
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div>
                                 <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                                     <div class="input-group-meta form-group mb-60">
                                         <label>Last Name</label>
-                                        <input type="text" placeholder="Hawkins" name="Lname" required="required" data-error="Name is required.">
+                                        <input type="text" placeholder="Your last name" name="Lname" required="required" data-error="Name is required.">
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div>
                                 <div class="col-12" data-aos="fade-up" data-aos-duration="1200">
                                     <div class="input-group-meta form-group mb-60">
                                         <label>Email Address</label>
-                                        <input type="email" placeholder="saeslal@zouj.co.uk" name="email" required="required" data-error="Valid email is required.">
+                                        <input type="email" placeholder="The best email address to reach you at" name="email" required="required" data-error="Valid email is required.">
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div>
