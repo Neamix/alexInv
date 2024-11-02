@@ -42,7 +42,7 @@
 			-->
             <div class="theme-main-menu sticky-menu theme-menu-five">
                 <div class="d-flex align-items-center justify-content-center">
-                    <div class="logo"><a href="index.html"><img src="{{ asset('asset/images/logo/deski_06.svg') }}" alt=""></a></div>
+                    <div class="logo"><a href="/"><img src="{{ asset('asset/images/logo/logo-blue.png') }}" alt="" width="151px"></a></div>
             
                     <nav id="mega-menu-holder" class="navbar navbar-expand-lg">
                         <div  class="nav-container">
@@ -94,7 +94,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-xl-3 col-lg-2 mb-40" data-aos="fade-up" data-aos-duration="1200">
-								<div class="logo"><a href="index.html"><img src="{{ asset('asset/images/logo/deski_06.svg') }}" alt=""></a></div>
+								<div class="logo"><a href="/"><img src="{{ asset('asset/images/logo/logo-blue.png') }}" width="151px" alt=""></a></div>
 							</div>
 							<div class="col-xl-2 col-lg-2 col-md-6 mb-40" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
 								<h5 class="title">Links</h5>
@@ -105,7 +105,7 @@
 								</ul>
 							</div>
 							<div class=" col-xl-4 col-lg-4 col-md-6 mb-40" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
-								<h5 class="title">Links</h5>
+								<h5 class="title">Contact us</h5>
 								<ul class="footer-list">
 									<li><a href="mailto: admin@alexandriainvesment.com">
 										<svg xmlns="http://www.w3.org/2000/svg" width="20" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
@@ -123,9 +123,8 @@
 								<div class="newsletter">
 									<h5 class="title">BOOK A MEETING</h5>
 									<p>Let's make your dream true</p>
-									<form action="#">
-										<a href="callus"><button class="left-0">Call Us</button></a>
-									</form>
+									<a href="/callus"><button class="left-0 callus fixed">Call Us</button></a>
+
 								</div> <!-- /.newsletter -->
 							</div>
 						</div>

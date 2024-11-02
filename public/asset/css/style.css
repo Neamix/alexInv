@@ -8755,7 +8755,7 @@ body .shop-btn-two:hover {background: var(--purple-blue);}
 .hero-banner-seven .illustration-container img {animation: jumpTwo 6s infinite linear;}
 .hero-banner-seven .hero-heading {
   font-weight: 500;
-  font-size: 81;
+  font-size: 69px;
   line-height: 1.15em;
   padding-right: 50px;
 }
@@ -9348,7 +9348,8 @@ body .shop-btn-two:hover {background: var(--purple-blue);}
 .theme-footer-seven .newsletter form ::-ms-input-placeholder { /* Microsoft Edge */
   color: #000;
 }
-.theme-footer-seven .newsletter form button {
+.theme-footer-seven .newsletter form button,
+.callus {
   position: absolute;
   font-size: 16px;
   font-weight: 500;
@@ -9360,6 +9361,12 @@ body .shop-btn-two:hover {background: var(--purple-blue);}
   background: #FFEAA0;
   color: #000;
   transition: all 0.3s ease-in-out;
+}
+.callus.fixed {
+  position: relative;
+  height: 61px;
+  margin: 50px auto;
+
 }
 .theme-footer-seven .newsletter form button.dark-btn {background: #262626; color: #fff;}
 .theme-footer-seven .newsletter form button.dark-btn:hover {background: #EB5E2A;}

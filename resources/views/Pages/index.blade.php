@@ -17,8 +17,8 @@
         </div>
         <div class="row">
             <div class="col-lg-6">
-                <h1 class="hero-heading"><span>Capture</span> Ideas & make it real.</h1>
-                <p class="hero-sub-heading">With us you can start your dream</p>
+                <h1 class="hero-heading">One<span class="mx-1">Innovation</span> at a Time.</h1>
+                <p class="hero-sub-heading">Building the Future of the Web Applications</p>
                 <form action="#" style="opacity: 0">
                     <input type="email" placeholder="ihidago@ujufidnan.gov">
                     <button>Join Newsletter</button>
@@ -70,9 +70,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 order-lg-last" data-aos="fade-left" data-aos-duration="1200">
                     <div class="text-wrapper">
-                        <h6>Scanning & Doc</h6>
-                        <h3 class="title">Web doc <br> file <span>Scanning.</span></h3>
-                        <p>Go paperless. Back up important documents to all your devices, and keep the information not the clutter.</p>
+                        <h6>Empowering Your Business with Software Innovation</h6>
+                        <h3 class="title">Software<span>Investment.</span></h3>
+                        <p>Empowering your business with cutting-edge software solutions designed to drive growth, efficiency, and innovation.</p>
                     </div> <!-- /.text-wrapper -->
                 </div>
                 <div class="col-lg-7 order-lg-first" data-aos="fade-right" data-aos-duration="1200">
@@ -88,9 +88,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-5" data-aos="fade-right" data-aos-duration="1200">
                     <div class="text-wrapper">
-                        <h6>Note & Docs</h6>
-                        <h3 class="title"><span>Clipper</span> & Rich notes</h3>
-                        <p>Save web pages (without the ads) and mark them up with arrows, highlights, and text to make them more useful.</p>
+                        <h6>LOOKS MATTER</h6>
+                        <h3 class="title"><span>UX/UI</span> Insights</h3>
+                        <p>Transform your software vision into reality with custom-designed user interfaces that prioritize user engagement and satisfaction</p>
                     </div> <!-- /.text-wrapper -->
                 </div>
                 <div class="col-lg-7" data-aos="fade-left" data-aos-duration="1200">
@@ -119,7 +119,7 @@
                         <img src="images/icon/71.svg" alt="" class="icon">
                     </a>
                     <div class="title-style-seven">
-                        <h2>Let's Launch it</h2>
+                        <h2>App Deployment</h2>
                     </div> <!-- /.title-style-seven -->
                     <p>Securely launch your web application on a reliable server, guaranteeing high performance and accessibility for your customers</p>
                 </div> <!-- /.text-wrapper -->
@@ -147,36 +147,43 @@
                 <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200">
                     <div class="block-meta">
                         <div class="icon d-flex align-items-end"><img src="{{ asset('asset/images/icon/94.svg') }}" alt=""></div>
-                        <h4>Web Clipper</h4>
-                        <p>Deski Web offers a complete lineup of features from any major browser.</p>
+                        <h4>Dynamic App</h4>
+                        <p>Interactive web applications to adapt and scale with your business needs</p>
                     </div> <!-- /.block-meta -->
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
                     <div class="block-meta">
                         <div class="icon d-flex align-items-end"><img src="{{ asset('asset/images/icon/95.svg') }}" alt=""></div>
-                        <h4>All Platform</h4>
-                        <p>Lorem ipsum began as scrambl nonsensical Latin derived from Cicero's quis</p>
+                        <h4>Website Development</h4>
+                        <p>Seamless experience across all devices, ensuring your audience can access your content anytime, anywhere!</p>
                     </div> <!-- /.block-meta -->
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                     <div class="block-meta">
                         <div class="icon d-flex align-items-end"><img src="{{ asset('asset/images/icon/96.svg') }}" alt=""></div>
-                        <h4>Character Finding</h4>
-                        <p>Creation timelines for the standard lorem ipsum passage vary, with qius some citing.</p>
+                        <h4>Backend Control</h4>
+                        <p>Providing organized tools to oversee operations and make updates at ease</p>
                     </div> <!-- /.block-meta -->
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200">
                     <div class="block-meta">
                         <div class="icon d-flex align-items-end"><img src="{{ asset('asset/images/icon/97.svg') }}" alt=""></div>
-                        <h4>App Integrations</h4>
-                        <p>Lorem ipsum began as scrambl nonsensical Latin derived from Cicero's quis</p>
+                        <h4>Software Integrations</h4>
+                        <p>Connect your web application with essential third-party tools to enhance workflow efficiency and streamline processes</p>
+                    </div> <!-- /.block-meta -->
+                </div>
+                <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
+                    <div class="block-meta">
+                        <div class="icon d-flex align-items-end"><img src="{{ asset('asset/images/icon/98.svg') }}" alt=""></div>
+                        <h4>App Support</h4>
+                        <p>To keep your web application running smoothly, timely updates, and quick resolutions</p>
                     </div> <!-- /.block-meta -->
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                     <div class="block-meta">
                         <div class="icon d-flex align-items-end"><img src="{{ asset('asset/images/icon/99.svg') }}" alt=""></div>
-                        <h4>Notes & Docs</h4>
-                        <p>Letraset's dry-transfer sheets later entered the digital world via Aldus PageMaker.</p>
+                        <h4>SEO-Friendly</h4>
+                        <p>To improve search engine rankings, increase visibility, and drive more organic traffic</p>
                     </div> <!-- /.block-meta -->
                 </div>
             </div>
@@ -208,19 +215,19 @@
                   <div class="row justify-content-center">
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200">
                         <div class="pr-table-wrapper">
-                            <div class="pack-name" style="background:#FFECEC;">Basic</div>
-                            <div class="pack-details">TAKE GREAT NOTES</div>
+                            <div class="pack-name" style="background:#FFECEC;">Small Project</div>
+                            <div class="pack-details">GREAT FOR SMALL TASKS</div>
                             <ul class="pr-feature">
-                                <li>Website</li>
-                                <li>Responseive</li>
+                                <li>Quick updates</li>
+                                <li>Minor enhancements</li>
                                 <li>Admin Panal</li>
                             </ul>
-                            <a href="#" class="trial-button">Call Us</a>
+                            <a href="/callus" class="trial-button">Call Us</a>
                         </div> <!-- /.pr-table-wrapper -->
                     </div>
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
                         <div class="pr-table-wrapper active">
-                            <div class="pack-name" style="background:#E3F8EF;">Reguler</div>
+                            <div class="pack-name" style="background:#E3F8EF;">Big Project</div>
                             <div class="pack-details">BE MORE PRODUCTIVE</div>
                             <ul class="pr-feature">
                                 <li>Website</li>
@@ -228,31 +235,28 @@
                                 <li>Admin Panal</li>
                                 <li>Mobile Application</li>
                             </ul>
-                            <a href="#" class="trial-button">Call Us</a>
+                            <a href="/callus" class="trial-button">Call Us</a>
                         </div> <!-- /.pr-table-wrapper -->
                     </div>
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="pr-table-wrapper">
-                            <div class="pack-name" style="background:#FBF3E5;">Business</div>
+                            <div class="pack-name" style="background:#FBF3E5;">Business Project</div>
                             <div class="pack-details">Get more with team</div>
                             <ul class="pr-feature">
-                                <li>Website</li>
-                                <li>Responseive</li>
+                                <li>Quick updates</li>
+                                <li>Minor enhancements</li>
                                 <li>Admin Panal</li>
-                                <li>Mobile Application</li>
-                                <li>Deploy on server</li>
-                                <li>6 Month </li>
                             </ul>
-                            <a href="#" class="trial-button">Call Us</a>
+                            <a href="/callus" class="trial-button">Call Us</a>
                         </div> <!-- /.pr-table-wrapper -->
                     </div>
                 </div>
             </div>
-            <div class="tab-pane fade" id="year">
+            {{-- <div class="tab-pane fade" id="year">
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200">
                         <div class="pr-table-wrapper">
-                            <div class="pack-name" style="background:#FFECEC;">Basic</div>
+                            <div class="pack-name" style="background:#FFECEC;">Small Project</div>
                             <div class="price">Free</div>
                             <div class="pack-details">TAKE GREAT NOTES</div>
                             <ul class="pr-feature">
@@ -307,7 +311,7 @@
                         </div> <!-- /.pr-table-wrapper -->
                     </div>
                 </div>
-              </div>
+            </div> --}}
         </div>
     </div> <!-- /.pricing-table-area-six -->
 </div> <!-- /.pricing-section-six -->
@@ -323,9 +327,12 @@
         <div class="row">
             <div class="col-xl-8 col-lg-11 m-auto" data-aos="fade-up" data-aos-duration="1200">
                 <div class="title-style-seven text-center">
-                    <h2><span>200k+</span> Customers have our deski.Try it now!</h2>
-                    <p>Try it risk free — we don’t charge cancellation fees.</p>
+                    <h2><span>Got an Idea</span></h2>
+                    <p>Book a meeting now, and let’s turn your dream project into reality!</p>
+                    <a href="callus" class="d-block"><button class="left-0 callus fixed">Call Us</button></a>
+
                 </div> <!-- /.title-style-six -->
+               
             </div>
         </div>
     </div> <!-- /.container -->
