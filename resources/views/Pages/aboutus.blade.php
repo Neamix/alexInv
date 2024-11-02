@@ -68,7 +68,7 @@
                 <div class="col-xl-5 col-lg-6 ml-auto order-lg-last" data-aos="fade-left" data-aos-duration="1200">
                     <img src="{{ asset('asset/images/icon/34.svg') }}" alt="" class="icon">
                     <p class="font-rubik">We’ve been on a journey to turn visions into powerful Apps. Together, let’s craft the extraordinary!</p>
-                    <div class="name sm-mb-40">Abdalrhman Hussin <span>CEO & Founder <br>Alexandria Invesment</span></div>
+                    <div class="name sm-mb-40">Abdalrhman Hussin <span>CEO & Founder <br>Alexandria Invesments</span></div>
                 </div>
                 <div class="col-lg-6 order-lg-first">
                     <div class="row align-items-end">

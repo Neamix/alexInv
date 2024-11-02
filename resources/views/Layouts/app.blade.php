@@ -142,7 +142,7 @@
 									</ul>
 								</div>
 								<div class="col-lg-4 order-lg-2 mb-20">
-									<p class="copyright text-center">Copyright @2022 deski inc.</p>
+									<p class="copyright text-center">Copyright @2022 Alexandria Investments inc.</p>
 								</div>
 							</div>
 						</div>
