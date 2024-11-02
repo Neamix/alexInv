@@ -44,28 +44,28 @@
 							<div class="block-style-twentyTwo" onclick="location.href='service-detailsV1.html';">
 								<div class="icon d-flex align-items-center justify-content-center" style="background:#F7EDFF;"><img src="{{ asset('asset/images/icon/181.svg') }}" alt=""></div>
 								<h4>Mobile App</h4>
-								<p>Duis aute irure dolor  reprehen derit in voluptat velit.</p>
+								<p>Engage with your audience and elevate your brand.</p>
 							</div> <!-- /.block-style-twentyTwo -->
 						</div>
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
 							<div class="block-style-twentyTwo" onclick="location.href='service-detailsV1.html';">
 								<div class="icon d-flex align-items-center justify-content-center" style="background:#FFF8E0;"><img src="{{ asset('asset/images/icon/183.svg') }}" alt=""></div>
 								<h4>Figma Design</h4>
-								<p>Duis aute irure dolor  reprehen derit in voluptat velit.</p>
+								<p>Creating beautiful UI/UX designs for your business</p>
 							</div> <!-- /.block-style-twentyTwo -->
 						</div>
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200">
 							<div class="block-style-twentyTwo" onclick="location.href='service-detailsV1.html';">
 								<div class="icon d-flex align-items-center justify-content-center" style="background:#FFEBDB;"><img src="{{ asset('asset/images/icon/132.svg') }}" alt=""></div>
-								<h4>Wp Development</h4>
-								<p>Duis aute irure dolor  reprehen derit in voluptat velit.</p>
+								<h4>Live Support</h4>
+								<p>24/7 Across all your apps and projects</p>
 							</div> <!-- /.block-style-twentyTwo -->
 						</div>
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
 							<div class="block-style-twentyTwo" onclick="location.href='service-detailsV1.html';">
 								<div class="icon d-flex align-items-center justify-content-center" style="background:#E0F8F8;"><img src="{{ asset('asset/images/icon/133.svg') }}" alt=""></div>
-								<h4>Easy Customizable</h4>
-								<p>Duis aute irure dolor  reprehen derit in voluptat velit.</p>
+								<h4>SEO Optimization</h4>
+								<p>Strategies that drive organic traffic and growth</p>
 							</div> <!-- /.block-style-twentyTwo -->
 						</div>
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
@@ -104,48 +104,15 @@
 								<div class="quote-wrapper pt-60">
 									<img src="{{ asset('asset/images/icon/185.png') }}" alt="" class="icon">
 									<blockquote class="font-rubik">
-										Deski combines excellent live chat, ticketing and automation that allow us to provide quality.
+										Our talented team is here to help your business thrive with innovative applications and seamless integrations
 									</blockquote>
-									<h6 class="mt-20">Mike Lucas. <span>CEO & Founder deksi</span></h6>
+									<h6 class="mt-20">Abdalrhman<span>CEO & Founder deksi</span></h6>
 								</div> <!-- /.quote-wrapper -->
 							</div>
 						</div>
 					</div>
 				</div> <!-- /.bg-wrapper -->
 			</div> <!-- /.fancy-text-block-seven -->
-
-
-
-			<!-- 
-			=============================================
-				Counter Style Three
-			============================================== 
-			-->
-			<div class="counter-style-three mt-50">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-4">
-							<div class="counter-box-five text-center mb-65" data-aos="fade-up">
-								<h2 class="number font-gordita"><span class="timer" data-from="0" data-to="13" data-speed="1500" data-refresh-interval="5">13</span>k</h2>
-								<p class="font-gordita">Job done successfully</p>
-							</div> <!-- /.counter-box-five -->
-						</div>
-						<div class="col-lg-4">
-							<div class="counter-box-five text-center mb-65" data-aos="fade-up" data-aos-delay="100">
-								<h2 class="number font-gordita"><span class="timer" data-from="0" data-to="20" data-speed="1500" data-refresh-interval="5">20</span>million</h2>
-								<p class="font-gordita">3280 avg rating</p>
-							</div> <!-- /.counter-box-five -->
-						</div>
-						<div class="col-lg-4">
-							<div class="counter-box-five text-center mb-65" data-aos="fade-up" data-aos-delay="150">
-								<h2 class="number font-gordita"><span class="timer" data-from="0" data-to="3000" data-speed="1500" data-refresh-interval="5">3000</span>+</h2>
-								<p class="font-gordita">using Deski</p>
-							</div> <!-- /.counter-box-five -->
-						</div>
-					</div>
-				</div>
-			</div> <!-- /.counter-style-three -->
-
 
 
 			<!--
@@ -163,7 +130,7 @@
 						</div>
 					</div>
 					<div class="text-center pb-40 md-pb-10" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="150">
-						<a href="contact-us(doc).html" class="theme-btn-eleven">Contact us</a>
+						<a href="/callus" class="theme-btn-eleven">Call us</a>
 					</div>
 				</div> <!-- /.container -->
 				<img src="{{ asset('asset/images/shape/210.svg') }}" alt="" class="shapes shape-one">
