@@ -41,38 +41,39 @@
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
-							<div class="block-style-twentyTwo" onclick="location.href='service-detailsV1.html';">
+							<div class="block-style-twentyTwo">
 								<div class="icon d-flex align-items-center justify-content-center" style="background:#F7EDFF;"><img src="{{ asset('asset/images/icon/181.svg') }}" alt=""></div>
 								<h4>Mobile App</h4>
 								<p>Engage with your audience and elevate your brand.</p>
 							</div> <!-- /.block-style-twentyTwo -->
 						</div>
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
-							<div class="block-style-twentyTwo" onclick="location.href='service-detailsV1.html';">
+							<div class="block-style-twentyTwo">
 								<div class="icon d-flex align-items-center justify-content-center" style="background:#FFF8E0;"><img src="{{ asset('asset/images/icon/183.svg') }}" alt=""></div>
 								<h4>Software Integrations</h4>
 								<p>Connect your existing systems for improved efficiency and streamlined operations</p>
 							</div> <!-- /.block-style-twentyTwo -->
 						</div>
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200">
-							<div class="block-style-twentyTwo" onclick="location.href='service-detailsV1.html';">
+							<div class="block-style-twentyTwo">
 								<div class="icon d-flex align-items-center justify-content-center" style="background:#FFEBDB;"><img src="{{ asset('asset/images/icon/132.svg') }}" alt=""></div>
-								<h4>Live Support</h4>
-								<p>24/7 Across all your apps and projects</p>
+								<h4>Website Development</h4>
+								<p>Create dynamic, responsive websites that reflect your vision</p>
 							</div> <!-- /.block-style-twentyTwo -->
 						</div>
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
-							<div class="block-style-twentyTwo" onclick="location.href='service-detailsV1.html';">
+							<div class="block-style-twentyTwo">
 								<div class="icon d-flex align-items-center justify-content-center" style="background:#E0F8F8;"><img src="{{ asset('asset/images/icon/133.svg') }}" alt=""></div>
-								<h4>SEO Optimization</h4>
-								<p>Strategies that drive organic traffic and growth</p>
+								<h4>Live Support</h4>
+								<p>24/7 Across all your apps and projects</p>
+								
 							</div> <!-- /.block-style-twentyTwo -->
 						</div>
 						<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
-							<div class="block-style-twentyTwo" onclick="location.href='service-detailsV1.html';">
+							<div class="block-style-twentyTwo">
 								<div class="icon d-flex align-items-center justify-content-center" style="background:#ECF1FF;"><img src="{{ asset('asset/images/icon/184.svg') }}" alt=""></div>
-								<h4>Marketing</h4>
-								<p>Duis aute irure dolor  reprehen derit in voluptat velit.</p>
+								<h4>SEO Optimization</h4>
+								<p>Strategies that drive organic traffic and growth</p>
 							</div> <!-- /.block-style-twentyTwo -->
 						</div>
 					</div>
