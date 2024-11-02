@@ -124,7 +124,7 @@
 							<div class="col-xl-3 col-lg-5 mb-40" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
 								<div class="newsletter">
 									<h5 class="title">BOOK A MEETING</h5>
-									<p>Let's make your dream true</p>
+									<p>Let's connect and discuss your ideas!</p>
 									<a href="/callus"><button class="left-0 callus fixed">Call Us</button></a>
 
 								</div> <!-- /.newsletter -->
